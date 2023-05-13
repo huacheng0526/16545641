@@ -1,4 +1,4 @@
-花城的
+花城1122
 String driver="com.mysql.jdbc.Driver";//mysql提供的Driver接口的实现类
 String jdbcUrl="jdbc:mysql:///user";//此处为"jdbc:mysql://localhost:3306/user"的简化形式，user为数据库名
 String user="root";
